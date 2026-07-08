@@ -24,7 +24,7 @@ npm run build
 
 ```
 src/
-  components/       Herbruikbare componenten (AppHeader, AppTabBar, DashboardCard, InspectionList, InspectionDetail)
+  components/       Herbruikbare componenten (AppHeader, AppTabBar, DashboardCard, InspectionDetail)
   models/           Datamodellen (Inspection, inspectionDetailFields)
   router/           Vue Router configuratie met navigatiebewaker
   services/         InspectionService (async API-calls via fetch)
