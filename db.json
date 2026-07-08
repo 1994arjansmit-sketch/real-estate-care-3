@@ -1,0 +1,146 @@
+{
+  "inspections": [
+    {
+      "id": 1,
+      "reportType": "damageAssessment",
+      "address": "Kalverstraat 12, Amsterdam",
+      "inspectionDate": "2025-06-12T15:45:00+02:00",
+      "inspector": "Arjan Smit",
+      "status": "completed",
+      "details": {
+        "location": "Woonkamer, raamkozijn",
+        "isNewDamage": true,
+        "damageType": "calamity",
+        "damageDate": "2025-06-11T00:00:00+02:00",
+        "urgentActionRequired": true,
+        "description": "Waterschade aan kozijn na storm, hout is verzwakt en lekt door."
+      }
+    },
+    {
+      "id": 2,
+      "reportType": "maintenanceBacklog",
+      "address": "Herengracht 100, Amsterdam",
+      "inspectionDate": "2025-06-10T09:30:00+02:00",
+      "inspector": "Arjan Smit",
+      "status": "completed",
+      "details": {
+        "location": "Trapportaal, begane grond",
+        "maintenanceType": "paintwork",
+        "urgentActionRequired": false,
+        "costEstimate": "500-1500"
+      }
+    },
+    {
+      "id": 3,
+      "reportType": "technicalInstallationInspection",
+      "address": "Prinsengracht 55, Amsterdam",
+      "inspectionDate": "2025-06-08T13:15:00+02:00",
+      "inspector": "Lotte de Vries",
+      "status": "completed",
+      "details": {
+        "location": "Meterkast",
+        "installationType": "electrical",
+        "reportedFaults": "Regelmatig uitvallende groep bij gebruik wasmachine",
+        "testProcedureUrl": "/docs/testprocedure-elektra-nen3140.pdf",
+        "approved": true,
+        "remarks": "Groep 4 vervangen, verder conform NEN 3140."
+      }
+    },
+    {
+      "id": 4,
+      "reportType": "modificationInventory",
+      "address": "Rokin 8, Amsterdam",
+      "inspectionDate": "2025-06-03T08:30:00+02:00",
+      "inspector": "Arjan Smit",
+      "status": "completed",
+      "details": {
+        "existingSituationUrl": "/docs/modificaties-rokin8-2024.pdf",
+        "location": "Badkamer",
+        "performedBy": "tenant",
+        "description": "Extra wandcontactdoos bijgeplaatst naast wastafel.",
+        "actionRequired": "inspect",
+        "remarks": "Aansluiting laten keuren door erkend installateur."
+      }
+    },
+    {
+      "id": 5,
+      "reportType": "technicalInstallationInspection",
+      "address": "Leidsestraat 45, Amsterdam",
+      "inspectionDate": "2025-06-14T10:00:00+02:00",
+      "inspector": "Lotte de Vries",
+      "status": "completed",
+      "details": {
+        "location": "Stookruimte",
+        "installationType": "heating",
+        "reportedFaults": "Ketel start traag op bij koud weer",
+        "testProcedureUrl": "/docs/testprocedure-cv-installaties.pdf",
+        "approved": false,
+        "remarks": "Onderhoudsbeurt CV-ketel inplannen."
+      }
+    },
+    {
+      "id": 6,
+      "reportType": "damageAssessment",
+      "address": "Keizersgracht 22, Amsterdam",
+      "inspectionDate": "2025-06-05T11:00:00+02:00",
+      "inspector": "Arjan Smit",
+      "status": "completed",
+      "details": {
+        "location": "Berging, buitenmuur",
+        "isNewDamage": false,
+        "damageType": "wearAndTear",
+        "damageDate": "2025-05-20T00:00:00+02:00",
+        "urgentActionRequired": false,
+        "description": "Lichte scheurvorming door normale verzakking, geen acuut risico."
+      }
+    },
+    {
+      "id": 7,
+      "reportType": "damageAssessment",
+      "address": "Kalverstraat 12, Amsterdam",
+      "inspectionDate": "2025-06-20T09:00:00+02:00",
+      "inspector": "Arjan Smit",
+      "status": "assigned",
+      "details": {
+        "location": "",
+        "isNewDamage": null,
+        "damageType": "",
+        "damageDate": "",
+        "urgentActionRequired": null,
+        "description": ""
+      }
+    },
+    {
+      "id": 8,
+      "reportType": "technicalInstallationInspection",
+      "address": "Leidsestraat 45, Amsterdam",
+      "inspectionDate": "2025-06-21T13:00:00+02:00",
+      "inspector": "Arjan Smit",
+      "status": "assigned",
+      "details": {
+        "location": "",
+        "installationType": "",
+        "reportedFaults": "",
+        "testProcedureUrl": "",
+        "approved": null,
+        "remarks": ""
+      }
+    },
+    {
+      "id": 9,
+      "reportType": "modificationInventory",
+      "address": "Rokin 8, Amsterdam",
+      "inspectionDate": "2025-06-23T10:30:00+02:00",
+      "inspector": "Arjan Smit",
+      "status": "assigned",
+      "details": {
+        "existingSituationUrl": "",
+        "location": "",
+        "performedBy": "",
+        "description": "",
+        "actionRequired": "",
+        "remarks": ""
+      }
+    }
+  ]
+}

@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29797719/README.md)
 # RealEstateCare - Prototype
 
 Een mobiele webapplicatie (SPA) voor inspecteurs van RealEstateCare, gebouwd met Vue 3, Vuetify 3, vue-router en Pinia.
